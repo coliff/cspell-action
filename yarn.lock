@@ -2000,6 +2000,13 @@ cspell-glob@^5.19.7:
   dependencies:
     micromatch "^4.0.5"
 
+cspell-glob@^6.2.3:
+  version "6.2.3"
+  resolved "https://registry.yarnpkg.com/cspell-glob/-/cspell-glob-6.2.3.tgz#b98bea3d15d5a0c929a7659dd320d878b149a9cd"
+  integrity sha512-syeig1xAvReU8Qn78NuUaUhbUfop4oSAt+0l+zCQk0wsXA9vGhIzH5rctwOzBfDQhA7RFC62c+OUCEtVZ4QY4g==
+  dependencies:
+    micromatch "^4.0.5"
+
 cspell-io@^5.19.7:
   version "5.19.7"
   resolved "https://registry.npmjs.org/cspell-io/-/cspell-io-5.19.7.tgz#ce49d4aaeae19206ccd29c5d90599fa675ea5bac"
